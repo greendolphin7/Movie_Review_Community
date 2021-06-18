@@ -1,6 +1,6 @@
-# Movie_Review_Community
+# MovieDobby
 
-## 최종 프로젝트 개발 일지
+## Movie_Review_Community (SSAFY 최종 프로젝트)
 
 
 ### 개발 과정
